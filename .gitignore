@@ -28,5 +28,8 @@ go.work.sum
 .env
 
 # Editor/IDE
-# .idea/
-# .vscode/
+.idea/
+.vscode/
+lorenz_animation.gif
+lorenz_attractor.png
+mandelbrot_set.png
